@@ -61,3 +61,6 @@
 
 ## Contribuindo com a tradução
 [Aqui](CONTRIBUTING.md) você pode visualizar o nosso guia de contribuição.
+
+## Informações
+Guia em [inglês](http://cssguidelin.es/)
