@@ -1,11 +1,11 @@
 # Tradução do CSS Guideline criado por Harry Roberts
 ## Content
 
-* Introduction
-    * The Importance of a Styleguide
+1. Introduction
+    1. The Importance of a Styleguide
     * Disclaimers
 * Syntax and Formatting
-  * Multiple Files
+  1. Multiple Files
   * Table of Contents
   * Multiple Files
   * 80 Characters Wide
@@ -13,51 +13,51 @@
   * Anatomy of a Ruleset
   * Multi-line CSS
   * Indenting
-    * Indenting Sass
+    1. Indenting Sass
     * Alignment
   * Meaningful Whitespace
   * HTML
 * Commenting
-  * High-level
-    * Object–Extension Pointers
+  1. High-level
+    1. Object–Extension Pointers
   * Low-level
   * Preprocessor Comments
   * Removing Comments
 * Naming Conventions
-  * Hyphen Delimited
+  1. Hyphen Delimited
   * BEM-like Naming
-    * Starting Context
+    1. Starting Context
     * More Layers
     * Modifying Elements
   * Naming Conventions in HTML
   * JavaScript Hooks
-    * data-* Attributes
+    1. data-* Attributes
   * Taking It Further
 * CSS Selectors
-  * Selector Intent
+  1. Selector Intent
   * Reusability
   * Location Independence
   * Portability
-    * Quasi-Qualified Selectors
+    1. Quasi-Qualified Selectors
   * Naming
-    * Naming UI Components
+    1. Naming UI Components
   * Selector Performance
-    * The Key Selector
+    1. The Key Selector
   * General Rules
 * Specificity
-  * IDs in CSS
+  1. IDs in CSS
   * Nesting
   * !important
   * Hacking Specificity
 * Architectural Principles
-  * High-level Overview
+  1. High-level Overview
   * Object-orientation
   * The Single Responsibility Principle
   * The Open/Closed Principle
   * DRY
   * Composition over Inheritance
   * The Separation of Concerns
-    * Misconceptions
+    1. Misconceptions
 
 ## Contribuindo com a tradução
 [Aqui](CONTRIBUTING.md) você pode visualizar o nosso guia de contribuição.
