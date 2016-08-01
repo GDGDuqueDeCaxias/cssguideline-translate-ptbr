@@ -58,3 +58,7 @@
   * Composition over Inheritance
   * The Separation of Concerns
     * Misconceptions
+
+## Contribuindo com a tradução
+---
+[Aqui](CONTRIBUTING.md) você pode visualizar o nosso guia de contribuição.
