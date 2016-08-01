@@ -1,7 +1,7 @@
 # Tradução do CSS Guideline criado por Harry Roberts
 ## Content
 
-1. [Introduction](chapter/1.Introduction.md)
+1. [Introduction](chapters/1.Introduction.md)
     1. The Importance of a Styleguide
     * Disclaimers
 * Syntax and Formatting
