@@ -2,7 +2,7 @@
 ## Content
 
 1. [Introduction](chapters/1.Introduction.md)
-    1. The Importance of a Styleguide
+    1. [The Importance of a Styleguide](chapters/1.i.The-Importance-of-a-Styleguide.md)
     * Disclaimers
 * Syntax and Formatting
   1. Multiple Files
