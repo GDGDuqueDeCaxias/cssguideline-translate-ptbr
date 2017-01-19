@@ -3,21 +3,21 @@
 
 1. [Introduction](chapters/1.Introduction.md)
     1. [The Importance of a Styleguide](chapters/1.i.The-Importance-of-a-Styleguide.md)
-    * Disclaimers
+    * [Disclaimers](chapters/1.ii.Disclaimers.md)
 * Syntax and Formatting
   1. Multiple Files
   * Table of Contents
   * Multiple Files
-  * 80 Characters Wide
-  * Titling
-  * Anatomy of a Ruleset
+  * [80 Characters Wide](chapters/2.iii.80-Characters-Wide.md)
+  * [Titling](chapters/2.iv.Titling.md)
+  * [Anatomy of a Ruleset](chapters/2.v.Anatomy-of-a-Ruleset.md)
   * Multi-line CSS
-  * Indenting
-    1. Indenting Sass
-    * Alignment
-  * Meaningful Whitespace
+  * [Indenting](chapters/2.vii.Indenting.md)
+    1. [Indenting Sass](chapters/2.vii.a.Indenting-Sass.md)
+    * [Alignment](chapters/2.vii.b.Alignment.md)
+  * [Meaningful Whitespace](chapters/2.viii.Meaningfull-Whitespace.md)
   * HTML
-* Commenting
+* [Commenting](chapters/3.Commenting.md)
   1. High-level
     1. Object–Extension Pointers
   * Low-level
