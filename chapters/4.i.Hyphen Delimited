@@ -1,0 +1,17 @@
+# Hífen Delimitador
+
+Todas strings em classes são delimitadas com o hífen (-), como em:
+
+```css
+.page-head { }
+
+.sub-content { }
+```
+
+CamelCase e underline não são usados para classes regulares; os exemplos a seguir estão incorretos:
+
+```css
+.pageHead { }
+
+.sub_content { }
+```
