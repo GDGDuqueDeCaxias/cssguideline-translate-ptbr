@@ -4,7 +4,7 @@
 1. [Introduction](chapters/1.Introduction.md)
     1. [The Importance of a Styleguide](chapters/1.i.The-Importance-of-a-Styleguide.md)
     * [Disclaimers](chapters/1.ii.Disclaimers.md)
-* Syntax and Formatting
+* [Syntax and Formatting](chapters/2.Syntax-and-Formatting.md)
   1. Multiple Files
   * Table of Contents
   * Multiple Files
