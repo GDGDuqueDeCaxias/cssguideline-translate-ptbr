@@ -23,7 +23,7 @@
   * Low-level
   * Preprocessor Comments
   * Removing Comments
-* Naming Conventions
+* [Naming Conventions](chapters/4.Naming-Conventions.md)
   1. [Hyphen Delimited](chapters/4.i.Hyphen-Delimited.md)
   * BEM-like Naming
     1. Starting Context
