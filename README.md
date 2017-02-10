@@ -24,7 +24,7 @@
   * Preprocessor Comments
   * Removing Comments
 * Naming Conventions
-  1. Hyphen Delimited
+  1. [Hyphen Delimited](chapters/4.i.Hyphen-Delimited.md)
   * BEM-like Naming
     1. Starting Context
     * More Layers
