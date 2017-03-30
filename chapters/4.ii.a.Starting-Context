@@ -1,0 +1,41 @@
+# Contexto Inicial
+
+Seu contexto inicial Block (Bloco) começa na localização mais lógica, autônoma e discreta. Para continuar com nossas analogias baseadas em pessoas, nós não teríamos classes como **.room__person {}**, como o quarto é outro, contexto muito mais elevado. Nós provavelmente separariamos os Blocos, como em:
+
+``` css
+.room { }
+	.room__door { }
+
+.room--kitchen { }
+
+.person { }
+	.person__head { }
+```
+
+Se nós quisessemos indicar uma **.person {}** dentro de **.room {}**, seria mais correto usar seletores como **.room .person{}** que faz a ponto entre dois Blocos aumentando o alcance dos Blocos e Elementos existentes.
+
+O exemplo mais realista de Blocos devidamente delimitados pode parecer algo assim, onde cada pedaço de código representa seu próprio Bloco:
+
+```css
+.page { }
+
+.content { }
+
+.sub-content { }
+
+.footer { }
+	.footer__copyright { }
+```
+
+Uma notação incorreta para isso seria:
+
+``` css
+.page { }
+	.page__content { }
+	.page__sub-content { }
+	.page__footer { }
+		.page__copyright { }
+```
+
+
+É importante saber quando o escopo BEM incia e para. Como regra, o BEM aplica-se de forma autônoma, partes discretas da interface do usuário (UI).
