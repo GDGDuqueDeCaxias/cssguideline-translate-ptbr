@@ -31,7 +31,7 @@
       3. Modifying Elements
    3. Naming Conventions in HTML
    4. [JavaScript Hooks](chapters/4.iv.JavaScript-Hooks.md)
-      1. data-\* Attributes
+      1. [data-\* Attributes](chapters/4.iv.a.data-Attributes.md)
    5. Taking It Further
 5. CSS Selectors
    1. Selector Intent
