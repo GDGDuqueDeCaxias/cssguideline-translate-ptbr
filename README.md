@@ -30,7 +30,7 @@
       2. [More Layers](chapters/4.ii.b.More-Layers.md)
       3. Modifying Elements
    3. Naming Conventions in HTML
-   4. JavaScript Hooks
+   4. [JavaScript Hooks](chapters/4.iv.JavaScript-Hooks.md)
       1. data-\* Attributes
    5. [Taking It Further](chapters/4.v.Taking-It-Further.md)
 5. CSS Selectors
